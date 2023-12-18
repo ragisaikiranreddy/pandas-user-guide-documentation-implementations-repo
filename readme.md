@@ -1,9 +1,8 @@
 # Pandas User Guide implementation.
 
-##### dataset:
-[Table_7.2a_Electricity_Net_Generation__Total_(All_Sectors)](https://www.eia.gov/totalenergy/data/monthly/index.php) dataset -downloaded from official site of U.S.Energy Information Administration.
+* Dataset- [Table_7.2a_Electricity_Net_Generation__Total_(All_Sectors)](https://www.eia.gov/totalenergy/data/monthly/index.php)          - downloaded from official site of U.S.Energy Information Administration.
 
-Repo has the implementations based on the following topics from pandas official user-guide documentation:
+###### The following topics from pandas official user-guide documentation are implemented on the mentioned dataset:
 * Reshaping and pivot tables
 * Table Visualization
 * Sparse data structures
